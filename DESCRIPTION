@@ -1,0 +1,15 @@
+Package: travisexpts
+Type: Package
+Title: Experiments with Travis
+Version: 0.1.0
+Author: Ramnath Vaidyanathan
+Maintainer: Ramnath Vaidyanathan <ramnath.vaidya@gmail.com>
+Description: Just testing what Travis can do.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
+URL: https://github.com/ramnathv/travisexpts
+BugReports: https://github.com/ramnathv/travisexpts/issues
