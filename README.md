@@ -2,7 +2,7 @@
 
 [![Travis-CI Build Status](https://travis-ci.org/ramnathv/travisexpts.svg?branch=master)](https://travis-ci.org/ramnathv/travisexpts)
 
-The goal of travisexpts is to ...
+The goal of travisexpts is to 
 
 ## Installation
 
