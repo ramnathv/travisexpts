@@ -9,7 +9,10 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests:
-    testthat
+    testthat,
+    knitr,
+    rmarkdown
 RoxygenNote: 5.0.1
 URL: https://github.com/ramnathv/travisexpts
 BugReports: https://github.com/ramnathv/travisexpts/issues
+VignetteBuilder: knitr
