@@ -1,7 +1,8 @@
 language: R
 sudo: false
 cache: packages
-r_github_packages: hadley/pkgdown, cran/roxygen2
+r_packages: roxygen2
+r_github_packages: hadley/pkgdown
 addons:
   apt:
     packages:
