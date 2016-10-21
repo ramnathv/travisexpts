@@ -2,6 +2,10 @@ language: R
 sudo: false
 cache: packages
 r_github_packages: hadley/pkgdown
+addons:
+  apt:
+    packages:
+      - libmagick++-dev
 before_script:
 - chmod +x ./_build.sh
 - chmod +x ./_deploy.sh
