@@ -2,7 +2,7 @@ Package: travisexpts
 Type: Package
 Title: Experiments with Travis
 Version: 0.1.0
-Author: Ramnath Vaidyanathan
+Authors@R: person("Ramnath", "Vaidyanathan", email = "ramnath.vaidya@gmail.com", role = c("aut", "cre"))
 Maintainer: Ramnath Vaidyanathan <ramnath.vaidya@gmail.com>
 Description: Just testing what Travis can do.
 License: MIT + file LICENSE
