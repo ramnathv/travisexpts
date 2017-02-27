@@ -1,8 +1,8 @@
 template:
-  bootswatch: flatly
+  bootswatch: yeti
 navbar:
   title: pkgdown
-  type: default
+  type: inverse
   left:
   - text: Home
     href: index.html
