@@ -1,5 +1,6 @@
 template:
-  bootswatch: yeti
+  params:
+    bootswatch: yeti
 navbar:
   title: pkgdown
   type: inverse
